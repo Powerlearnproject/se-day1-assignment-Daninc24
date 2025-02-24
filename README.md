@@ -7,8 +7,6 @@ Software Engineering Day1 Assignment
 Explain what software engineering is and discuss its importance in the technology industry.
 Software engineering is all about writing instructions, building apps, games and website, testing and mantaining software application.
 It helps in enabling innovation, ensuring reliability, and enhancing efficiency and performance by allowing the creation of new applications, products, and services that drive progress and improve our lives.
-
-
 Identify and describe at least three key milestones in the evolution of software engineering.
 1. The introduction of high-level programming languages marked a significant departure from the earlier reliance on assembly languages and machine code. Notably, Fortran (1957) and COBOL (1959) were among the first widely used high-level languages.
 2. In the late 1960s and early 1970s, the field of software engineering saw the rise of structured programming concepts, largely promoted by figures such as Edgar Dijkstra and Donald Knuth. Dijkstra's influential paper on "Go To Statement Considered Harmful" (1968) called for the use of control structures like loops, conditionals, and subroutines in place of the unstructured "goto" statements.
@@ -37,9 +35,6 @@ Agile is better suited for:
 Projects with evolving or unclear requirements.
 Software products requiring constant iteration, customer feedback, and improvements.
 Fast-paced environments where speed of delivery and adaptability are key, such as startups and tech companies building consumer products.
-
-
-
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 A Software Developer is responsible for writing, testing, and maintaining the code that forms the core of the software product. They play a central role in translating functional requirements into technical solutions.
 
